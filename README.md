@@ -1,5 +1,6 @@
 # remi-android
 run remi on android
+we want to move the remi to the [AidLearning] (https://github.com/aidlearning/AidLearning-FrameWork)
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/dddomodossola/remi/development/remi/res/logo.png" width="430">
