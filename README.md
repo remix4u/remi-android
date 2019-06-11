@@ -1,5 +1,5 @@
 # remi-android
-run remi on android
+Run remi on android
 we want to move the remi to the [AidLearning] (https://github.com/aidlearning/AidLearning-FrameWork)
 
 <p align="center">
